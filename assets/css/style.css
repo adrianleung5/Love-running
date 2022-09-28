@@ -6,7 +6,7 @@
     border: none;
 }
 
-body{
+body {
     font-family: lato, sans-serif;
     font-weight: 300;
     color: #3a3a3a;
@@ -23,7 +23,7 @@ h1, h2 {
 #logo {
     float: left;
     font-size: 280;
-    margin-left: 30px;
+    
 
 }
 
@@ -35,9 +35,10 @@ h1, h2 {
 }
 
 #menu {
-    font-size: 110%
+    font-size: 110%;
     letter-spacing: 4px;
 }
+
 
 #menu, #logo {
     line-height: 75px;
@@ -55,10 +56,17 @@ h1, h2 {
     color: inherit;
 }
 
-#menu a:hoover {
+#menu a:hover {
     border-bottom: 1px solid #3a3a3a;
 }
 
 .active {
-    border-bottom: 1px solid #3a3a3a
+    border-bottom: 1px solid #3a3a3a;
+}
+
+/* hero image */
+#hero-image {
+    height: 600px
+    width: 100%;
+    background: url(../images/hero.image.webp) no-repreat];
 }
