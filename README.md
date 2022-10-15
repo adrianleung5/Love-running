@@ -21,3 +21,16 @@ The website aims to promote Leungs wellness hub as an a easy way for people to l
 
 ## Target Audience
 Sport people, fitness enthuasists, mental health , people working from home, people from all age groups, parents.
+
+## UX user Experience
+First Time Visitor Goals
+-  As a first-time visitor, I would like to grasp the website's objective and how to obtain further information as simply as possible. 
+- As a first time visitor, I would like to be able to navigate through the website easily and without any problems.
+
+Returning User Goals
+- As a returning customer, I would like to find out more information about the classes and prices
+- As a returning customer, I would like to be able to navigate the website on different various different platforms without any issues.
+
+Frequent User Goals
+- As a frequent user, I would like to see if there are new classes available on the website
+- As a frequent user, I would like to see if there is any changes in prices or any new membership options.
